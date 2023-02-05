@@ -1,0 +1,26 @@
+@import url("https://fonts.cdnfonts.com/css/freesans");
+
+.picksCard {
+  font-family: Helvetica, "FreeSans", sans-serif;
+  min-height: 22em;
+}
+
+.choiceOne {
+  background-color: rgb(43, 43, 43);
+  color: rgb(206, 206, 206);
+}
+
+.choiceTwo {
+  background-color: rgb(58, 58, 58);
+  color: rgb(206, 206, 206);
+}
+
+.choiceThree {
+  background-color: rgb(43, 43, 43);
+  color: rgb(206, 206, 206);
+}
+
+.choiceFour {
+  background-color: rgb(58, 58, 58);
+  color: rgb(206, 206, 206);
+}

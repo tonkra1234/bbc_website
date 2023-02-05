@@ -1,5 +1,6 @@
 @import url("https://fonts.cdnfonts.com/css/freesans");
 
-.App {
+.sportsCard {
   font-family: Helvetica, "FreeSans", sans-serif;
+  min-height: 15em;
 }

@@ -1,0 +1,69 @@
+.img1 {
+  height: 61vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(178, 178, 178);
+  background-blend-mode: multiply;
+  background-image: url("https://ichef.bbc.co.uk/wwhp/999/cpsprodpb/5D85/production/_128514932_microsoftteams-image-9.png");
+}
+
+.img1:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.img2 {
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(178, 178, 178);
+  background-blend-mode: multiply;
+  background-image: url("https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/10E1E/production/_128505196_725b346deb0ef6f2b418a0a9acc7ad77ab98741e.jpg");
+}
+
+.img2:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.img3 {
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(178, 178, 178);
+  background-blend-mode: multiply;
+  background-image: url("https://ichef.bbc.co.uk/wwhp/624/ibroadcast/images/live/p0/f0/tp/p0f0tpcv.jpg");
+}
+
+.img3:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.img4 {
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(178, 178, 178);
+  background-blend-mode: multiply;
+  background-image: url("https://ichef.bbc.co.uk/wwhp/624/cpsprodpb/E98E/production/_128509795_d2d8d37a-5a04-48d4-97db-b0f8fc05c313.jpg");
+}
+
+.img4:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.img5 {
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(178, 178, 178);
+  background-blend-mode: multiply;
+  background-image: url("https://ichef.bbc.co.uk/wwhp/624/ibroadcast/images/live/p0/f0/5y/p0f05y2p.jpg");
+}
+
+.img5:hover {
+  background-color: rgb(221, 221, 221);
+}

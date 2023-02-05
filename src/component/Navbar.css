@@ -1,0 +1,17 @@
+@import url("https://fonts.cdnfonts.com/css/freesans");
+
+.linkText {
+  font-family: Helvetica, "FreeSans", sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 1.05rem;
+}
+
+.linkText:hover {
+  color: rgb(223, 223, 223);
+  text-decoration: underline;
+}
+
+.login-icon {
+  margin-right: 1rem;
+}

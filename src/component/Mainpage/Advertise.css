@@ -1,0 +1,26 @@
+.advertise {
+  min-height: 20vh;
+  background-color: rgb(230, 226, 226);
+}
+
+.size {
+  height: 20vh;
+}
+
+@media screen and (min-width: 768px) {
+  .advertise {
+    min-height: 25vh;
+  }
+  .size {
+    height: 25vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .advertise {
+    min-height: 50vh;
+  }
+  .size {
+    height: 50vh;
+  }
+}

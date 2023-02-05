@@ -1,0 +1,29 @@
+.tabOne {
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+
+.tabOne:hover {
+  background-color: rgb(148, 148, 148);
+  color: rgb(255, 255, 255);
+}
+
+.tabTwo {
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+}
+
+.tabTwo:hover {
+  background-color: rgb(148, 148, 148);
+  color: rgb(255, 255, 255);
+}
+
+.Recommend-v-1 {
+  height: 10vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(178, 178, 178);
+  background-blend-mode: multiply;
+  background-image: url("https://ichef.bbc.co.uk/wwhp/999/cpsprodpb/5D85/production/_128514932_microsoftteams-image-9.png");
+}

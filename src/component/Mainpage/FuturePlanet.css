@@ -1,0 +1,21 @@
+.futurebackground {
+  min-height: 20vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(158, 156, 156);
+  background-blend-mode: multiply;
+  background-image: url("https://ychef.files.bbci.co.uk/976x549/p0836dcl.jpg");
+}
+
+@media screen and (min-width: 768px) {
+  .futurebackground {
+    min-height: 25vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .futurebackground {
+    min-height: 50vh;
+  }
+}
